@@ -7,12 +7,6 @@ Qcloud API 调试工具 Golang 版
 ```sh
 go get github.com/QcloudApi/qcloud_sign_golang
 ```
-- 安装
-
-```sh
-go install github.com/QcloudApi/qcloud_sign_golang
-```
-
 # 使用
 
 ```C
